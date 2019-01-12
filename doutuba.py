@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # author：albert time:2019/1/12
+
+#异步爬取
 import os
 import re
 from queue import Queue
